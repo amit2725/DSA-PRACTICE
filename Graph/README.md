@@ -6,7 +6,7 @@
   - [x] Adjacency Matrix
   - [x] Adjacency List
 
-- [ ] BFS
+- [X] BFS
 - [ ] DFS
 - [ ] Cycle Detection
 - [ ] Topological Sort
